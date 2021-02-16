@@ -522,6 +522,7 @@ progress::-moz-progress-value {
 }
 .portfolio-modal {
     padding: 1rem;
+    /* ******************quiero un cambio******************************** */
     max-width: 350px;
     display: flex;
     flex-direction: column;
